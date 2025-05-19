@@ -2,6 +2,8 @@
 
 This project is a data-driven sales analysis of Blinkit, an online grocery delivery platform, using Python in Jupyter Notebook. The objective is to extract meaningful business insights from sales data to understand performance and trends.
 
+---
+
 ## 📊 Key Insights
 
 - **📦 Total Sales**  
@@ -16,18 +18,40 @@ This project is a data-driven sales analysis of Blinkit, an online grocery deliv
 - **🧀 Sales by Product Type**  
   Compared sales volume and revenue across different product types such as Dairy, Snacks, Beverages, etc.
 
+- **🏪 Sales by Outlet Size**  
+  Observed how sales vary by outlet size (Small, Medium, High), helping in inventory and store-level planning.
+
+- **📅 Outlet Establishment Year**  
+  Explored sales trends by the year in which outlets were established to understand performance by age of the store.
+
+---
+
 ## 🛠️ Tools & Technologies Used
 
 - **Python** 🐍  
-  For data processing and visualization.
+  For data processing and analysis.
 
 - **Jupyter Notebook** 📓  
-  For interactive analysis and documentation.
+  For interactive development and storytelling.
 
 - **Libraries Used:**  
   - `pandas` for data manipulation  
-  - `matplotlib` & `seaborn` for visualization  
+  - `matplotlib` and `seaborn` for data visualization  
   - `numpy` for numerical operations
 
-## 📁 Project Structure
+---
+
+## 📈 Outcomes
+
+This analysis helps stakeholders understand:
+- High-performing products and categories
+- Regional performance and location-based trends
+- Customer preference by fat content and product types
+- Impact of outlet size on sales
+- Performance variation by outlet age
+
+---
+
+
+
 
